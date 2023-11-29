@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Digital Library Rida Inayyah Surbakti</title>
+        <li class="nav-item">
+    <a class="nav-link" href="index.html">Home</a>
+  </li>
+ <li class"nav-item">
+   <a class="nav-link" href="nayya.html">Tentang Kami</a>
+ </li>
+  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="layananDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Layanan
+                    </a>
+</head>
